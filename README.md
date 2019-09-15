@@ -28,7 +28,7 @@ give your exam, when exam is over click on frame and press 'q' for stop the dete
 This is done by using Harr Cascade Classifier for feature extraction.
 
 ## Screen Look
-![Landing Page](https://github.com/AadityaDeshpande/ExamSurveillance/blob/master/Screenshot%20from%202019-08-31%2023-26-12.png)
+![Landing Page](https://github.com/AadityaDeshpande/ExamSurveillance/blob/master/Screenshot%20from%202019-09-15%2020-27-14.png)
 
 person looking at a screen.
 
